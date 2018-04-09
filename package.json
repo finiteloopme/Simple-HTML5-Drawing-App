@@ -1,0 +1,23 @@
+{
+  "name": "simple-drawing-app",
+  "version": "1.0.0",
+  "description": "A Simple Web App for free hand drawing",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finiteloopme/simple-drawing-app.git"
+  },
+  "author": "Kunal Limaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finiteloopme/simple-drawing-app/issues"
+  },
+  "homepage": "https://github.com/finiteloopme/simple-drawing-app#readme"
+}
