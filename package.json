@@ -4,7 +4,8 @@
   "description": "A Simple Web App for free hand drawing",
   "main": "app.js",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3"
   },
   "devDependencies": {},
   "scripts": {
