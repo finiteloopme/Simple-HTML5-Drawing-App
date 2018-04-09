@@ -1,5 +1,4 @@
-### Create a Drawing App with HTML5 Canvas and JavaScript
+# A Simple Web App to paint a drawing
 
-Article located at: http://wmalone.com/draw
-
-![My image](http://www.williammalone.com/articles/create-html5-canvas-javascript-drawing-app/images/html5-drawing-tool-example.png)
+# Credit
+The basis for this application is a really good [tutorial](https://github.com/williammalone/Simple-HTML5-Drawing-App) by [_William Malone_](http://www.williammalone.com/)
